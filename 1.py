@@ -1,1 +1,2 @@
-print("bhfdbvjhbdvjbv")
+for i in range(5):
+    print(i);
