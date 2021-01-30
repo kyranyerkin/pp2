@@ -1,0 +1,15 @@
+c=0
+a=int(input())
+c+=a*3600
+b=int(input())
+c+=b*60
+s=int(input())
+c+=s
+c1=0
+a1=int(input())
+c1+=a1*3600
+b1=int(input())
+c1+=b1*60
+s1=int(input())
+c1+=s1
+print(int(c1)-int(c))
