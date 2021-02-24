@@ -1,0 +1,5 @@
+b=input()
+l1=b.split()
+a=input()
+l1.remove(a)
+print(l1)
